@@ -10,7 +10,7 @@ Perfect for editors, clippers, and archivists who need to extract multiple speci
 * **Automatic File Naming:** Automatically numbers your clips sequentially (`1.mp4`, `2.mp4`, etc.) in the destination folder.
 * **PO Token Support:** Built-in configuration for YouTube PO Tokens to bypass modern bot-detection blocks.
 
-## 🛠 Prerequisites
+## Prerequisites
 
 1. **Python 3.6+**: Ensure Python is installed on your system.
 2. **yt-dlp**: You must have the `yt-dlp` executable. 
